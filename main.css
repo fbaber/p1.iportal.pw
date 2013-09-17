@@ -1,18 +1,14 @@
 @charset "utf-8";
-/* CSS Document */
+/* CSS Document - CSCI E-15 Project 1 */
 
 body { font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif; background: #58FAD0; }
 
 #pageHeader { background-color: #CED8F6; color: #0404B4; padding: 25px 10px 25px; font-size:36px; font-style:italic; margin-left:auto }
-
 #wrapper { position: relative; top: 75px; width: 800px; height: 700px; margin-left: auto; margin-right: auto; border: 2px solid #5781a7; background-color: #ffffff; border-radius: 5px; }
 
 div.leftColumn { position: relative; width: 250px; height: 680px; color: #5781a7; background-color: #F8FBEF; padding: 10px 10px 0px 10px; border-top-left-radius: 5px; border-bottom-left-radius: 5px; margin: 0px 25px 0px 0px; font-size: .9em; float: left; }
 div.leftColumn h1 { font-size: 2em; }
-
-
 img.photoOfMe { margin-left: 5px; border: none; }
-
 div.bodySection { padding: 10px 10px 0px 250px; margin: 0px 0px 0px 25px; font-size: .9em;}
 div.bodySection p { padding-left: 45px; }
 div.bodySection h1 { color: #0B0B61; border-bottom: #04B404 solid 2px; }
